@@ -1,0 +1,14 @@
+D:\Diploma\C#\OOP\Route\OOP06\OOP06\OOP06\bin\Debug\net8.0\OOP06.exe
+D:\Diploma\C#\OOP\Route\OOP06\OOP06\OOP06\bin\Debug\net8.0\OOP06.deps.json
+D:\Diploma\C#\OOP\Route\OOP06\OOP06\OOP06\bin\Debug\net8.0\OOP06.runtimeconfig.json
+D:\Diploma\C#\OOP\Route\OOP06\OOP06\OOP06\bin\Debug\net8.0\OOP06.dll
+D:\Diploma\C#\OOP\Route\OOP06\OOP06\OOP06\bin\Debug\net8.0\OOP06.pdb
+D:\Diploma\C#\OOP\Route\OOP06\OOP06\OOP06\obj\Debug\net8.0\OOP06.GeneratedMSBuildEditorConfig.editorconfig
+D:\Diploma\C#\OOP\Route\OOP06\OOP06\OOP06\obj\Debug\net8.0\OOP06.AssemblyInfoInputs.cache
+D:\Diploma\C#\OOP\Route\OOP06\OOP06\OOP06\obj\Debug\net8.0\OOP06.AssemblyInfo.cs
+D:\Diploma\C#\OOP\Route\OOP06\OOP06\OOP06\obj\Debug\net8.0\OOP06.csproj.CoreCompileInputs.cache
+D:\Diploma\C#\OOP\Route\OOP06\OOP06\OOP06\obj\Debug\net8.0\OOP06.dll
+D:\Diploma\C#\OOP\Route\OOP06\OOP06\OOP06\obj\Debug\net8.0\refint\OOP06.dll
+D:\Diploma\C#\OOP\Route\OOP06\OOP06\OOP06\obj\Debug\net8.0\OOP06.pdb
+D:\Diploma\C#\OOP\Route\OOP06\OOP06\OOP06\obj\Debug\net8.0\OOP06.genruntimeconfig.cache
+D:\Diploma\C#\OOP\Route\OOP06\OOP06\OOP06\obj\Debug\net8.0\ref\OOP06.dll

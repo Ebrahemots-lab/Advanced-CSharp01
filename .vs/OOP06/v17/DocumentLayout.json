@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Diploma\\C#\\OOP\\Route\\OOP06\\OOP06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD342AF7-908E-43C8-80E2-566DAEC4462F}|Assignment\\Assignment.csproj|d:\\diploma\\c#\\oop\\route\\oop06\\oop06\\assignment\\q2\\range.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD342AF7-908E-43C8-80E2-566DAEC4462F}|Assignment\\Assignment.csproj|solutionrelative:assignment\\q2\\range.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD342AF7-908E-43C8-80E2-566DAEC4462F}|Assignment\\Assignment.csproj|d:\\diploma\\c#\\oop\\route\\oop06\\oop06\\assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD342AF7-908E-43C8-80E2-566DAEC4462F}|Assignment\\Assignment.csproj|solutionrelative:assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD342AF7-908E-43C8-80E2-566DAEC4462F}|Assignment\\Assignment.csproj|d:\\diploma\\c#\\oop\\route\\oop06\\oop06\\assignment\\q1\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD342AF7-908E-43C8-80E2-566DAEC4462F}|Assignment\\Assignment.csproj|solutionrelative:assignment\\q1\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Diploma\\C#\\OOP\\Route\\OOP06\\OOP06\\Assignment\\Q1\\User.cs",
+              "RelativeDocumentMoniker": "Assignment\\Q1\\User.cs",
+              "ToolTip": "D:\\Diploma\\C#\\OOP\\Route\\OOP06\\OOP06\\Assignment\\Q1\\User.cs",
+              "RelativeToolTip": "Assignment\\Q1\\User.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T05:40:43.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Range.cs",
+              "DocumentMoniker": "D:\\Diploma\\C#\\OOP\\Route\\OOP06\\OOP06\\Assignment\\Q2\\Range.cs",
+              "RelativeDocumentMoniker": "Assignment\\Q2\\Range.cs",
+              "ToolTip": "D:\\Diploma\\C#\\OOP\\Route\\OOP06\\OOP06\\Assignment\\Q2\\Range.cs",
+              "RelativeToolTip": "Assignment\\Q2\\Range.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvygAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T05:31:37.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Diploma\\C#\\OOP\\Route\\OOP06\\OOP06\\Assignment\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment\\Program.cs",
+              "ToolTip": "D:\\Diploma\\C#\\OOP\\Route\\OOP06\\OOP06\\Assignment\\Program.cs",
+              "RelativeToolTip": "Assignment\\Program.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T05:11:07.973Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
